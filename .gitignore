@@ -1,0 +1,9 @@
+*.pyc
+data
+data-*
+model-parameters
+.*
+*.swp
+run*
+__pycache__
+

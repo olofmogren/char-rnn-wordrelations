@@ -1,0 +1,21 @@
+'011000010110001001100011', '011000010110001001100100', '011010010110101001101011'
+
+'like', 'unlike', 'known'
+
+'arsala', 'mursilun', 'aslama'
+
+'oratorem','orator','honorem'
+
+'répression','répressionnaire','réaction'
+
+'fliehen','er floh','schließen'
+
+'zgubiony','zgubieni','zmartwiony'
+
+'ukaššad','uktanaššad','ušakšad'
+
+'huzila','huzal','ᶊudi`a'
+
+'stragglier','straggly','tackier'
+
+
